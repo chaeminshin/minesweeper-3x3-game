@@ -1,0 +1,14 @@
+﻿<Window x:Class="Final_ChaeminShin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Final_ChaeminShin"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <Button Content="Set Mines" FontSize="20" HorizontalAlignment="Left" Margin="161,171,0,0" VerticalAlignment="Top" Width="189" Height="93" Click="SetFields_Click"/>
+        <Button Content="Play game" FontSize="20" HorizontalAlignment="Left" Margin="439,171,0,0" VerticalAlignment="Top" Width="185" Height="95" Click="PlayGame_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <Move>
+    <Step id="1" time="1543">
+      <Player id="748" type="computer" />
+      <Play sign="M">01</Play>
+    </Step>
+    <Step id="1" time="1466">
+      <Player id="461" type="computer" />
+      <Play sign="M">21</Play>
+    </Step>
+    <Step id="1" time="467">
+      <Player id="987" type="computer" />
+      <Play sign="5">11</Play>
+    </Step>
+    <Step id="2" time="3531">
+      <Player id="987" type="user" />
+      <Play sign="2">00</Play>
+    </Step>
+    <Step id="3" time="3618">
+      <Player id="987" type="user" />
+      <Play sign="1">02</Play>
+    </Step>
+    <Step id="4" time="14352">
+      <Player id="987" type="user" />
+      <Play sign="3">12</Play>
+    </Step>
+    <Step id="1" time="480">
+      <Player id="270" type="user" />
+      <Play sign="2">21</Play>
+    </Step>
+    <Step id="2" time="311">
+      <Player id="270" type="user" />
+      <Play sign="2">12</Play>
+    </Step>
+    <Step id="3" time="906">
+      <Player id="270" type="user" />
+      <Play sign="2">10</Play>
+    </Step>
+    <Step id="4" time="297">
+      <Player id="270" type="user" />
+      <Play sign="2">01</Play>
+    </Step>
+    <Step id="5" time="441">
+      <Player id="270" type="user" />
+      <Play sign="1">00</Play>
+    </Step>
+    <Step id="6" time="29718">
+      <Player id="270" type="user" />
+      <Play sign="1">22</Play>
+    </Step>
+    <Step id="1" time="682">
+      <Player id="125" type="computer" />
+      <Play sign="2">12</Play>
+    </Step>
+    <Step id="2" time="2163">
+      <Player id="125" type="user" />
+      <Play sign="1">22</Play>
+    </Step>
+    <Step id="3" time="664">
+      <Player id="125" type="computer" />
+      <Play sign="2">21</Play>
+    </Step>
+    <Step id="4" time="1561">
+      <Player id="125" type="user" />
+      <Play sign="1">00</Play>
+    </Step>
+    <Step id="5" time="493">
+      <Player id="125" type="computer" />
+      <Play sign="2">01</Play>
+    </Step>
+    <Step id="6" time="1279">
+      <Player id="125" type="computer" />
+      <Play sign="M">11</Play>
+    </Step>
+    <Step id="1" time="1542">
+      <Player id="619" type="computer" />
+      <Play sign="M">10</Play>
+    </Step>
+    <Step id="1" time="1957">
+      <Player id="596" type="computer" />
+      <Play sign="M">10</Play>
+    </Step>
+    <Step id="1" time="591">
+      <Player id="682" type="computer" />
+      <Play sign="2">12</Play>
+    </Step>
+    <Step id="2" time="3028">
+      <Player id="682" type="user" />
+      <Play sign="1">02</Play>
+    </Step>
+    <Step id="3" time="4924">
+      <Player id="682" type="user" />
+      <Play sign="M">01</Play>
+    </Step>
+    <Step id="1" time="932">
+      <Player id="506" type="user" />
+      <Play sign="1">22</Play>
+    </Step>
+    <Step id="2" time="458">
+      <Player id="506" type="user" />
+      <Play sign="2">12</Play>
+    </Step>
+    <Step id="3" time="0">
+      <Player id="506" type="user" />
+      <Play sign="M">21</Play>
+    </Step>
+    <Step id="1" time="1634">
+      <Player id="396" type="user" />
+      <Play sign="M">21</Play>
+    </Step>
+    <Step id="1" time="2219">
+      <Player id="172" type="user" />
+      <Play sign="M">10</Play>
+    </Step>
+    <Step id="1" time="2616">
+      <Player id="584" type="user" />
+      <Play sign="M">01</Play>
+    </Step>
+    <Step id="1" time="492">
+      <Player id="930" type="user" />
+      <Play sign="1">02</Play>
+    </Step>
+    <Step id="2" time="270">
+      <Player id="930" type="user" />
+      <Play sign="2">12</Play>
+    </Step>
+    <Step id="3" time="282">
+      <Player id="930" type="user" />
+      <Play sign="1">22</Play>
+    </Step>
+    <Step id="4" time="276">
+      <Player id="930" type="user" />
+      <Play sign="4">11</Play>
+    </Step>
+    <Step id="5" time="1629">
+      <Player id="930" type="user" />
+      <Play sign="2">00</Play>
+    </Step>
+    <Step id="1" time="674">
+      <Player id="49" type="user" />
+      <Play sign="2">01</Play>
+    </Step>
+    <Step id="2" time="612">
+      <Player id="49" type="user" />
+      <Play sign="3">11</Play>
+    </Step>
+    <Step id="3" time="1051">
+      <Player id="49" type="user" />
+      <Play sign="2">12</Play>
+    </Step>
+    <Step id="4" time="3135">
+      <Player id="49" type="user" />
+      <Play sign="M">10</Play>
+    </Step>
+    <Step id="1" time="2919">
+      <Player id="653" type="computer" />
+      <Play sign="M">21</Play>
+    </Step>
+  </Move>
+</Game>

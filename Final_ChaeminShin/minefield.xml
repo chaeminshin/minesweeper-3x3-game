@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Fields>
+  <Field row="0" column="0">
+    <Mine active="no" />
+  </Field>
+  <Field row="0" column="1">
+    <Mine active="no" />
+  </Field>
+  <Field row="0" column="2">
+    <Mine active="yes" />
+  </Field>
+  <Field row="1" column="0">
+    <Mine active="yes" />
+  </Field>
+  <Field row="1" column="1">
+    <Mine active="no" />
+  </Field>
+  <Field row="1" column="2">
+    <Mine active="no" />
+  </Field>
+  <Field row="2" column="0">
+    <Mine active="no" />
+  </Field>
+  <Field row="2" column="1">
+    <Mine active="yes" />
+  </Field>
+  <Field row="2" column="2">
+    <Mine active="no" />
+  </Field>
+</Fields>

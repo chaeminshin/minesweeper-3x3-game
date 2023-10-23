@@ -1,2 +1,8 @@
 # minesweeper-3x3-game
-High Quality Software Programming
+
+To run:
+
+```
+Final_ChaeminShin/bin/Release/Final_ChaeminShin.exe
+
+```

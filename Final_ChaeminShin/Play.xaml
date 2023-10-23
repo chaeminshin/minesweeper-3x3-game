@@ -1,0 +1,28 @@
+﻿<Window x:Class="PlayScreen.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Final_ChaeminShin"
+        mc:Ignorable="d"
+        Title="Play" Height="500" Width="800">
+    <Grid>
+        <Grid x:Name="PlayGrid" HorizontalAlignment="Left" Height="268" Margin="240,78,0,0" VerticalAlignment="Top" Width="277">
+            <Button x:Name="ZeroZero" Tag="00" FontSize="30" Content="" HorizontalAlignment="Left" Height="80" Margin="0,10,0,0" VerticalAlignment="Top" Width="88" Click="Btn_Click"/>
+            <Button x:Name="ZeroOne" Tag="01" FontSize="30" Content="" HorizontalAlignment="Left" Height="80" Margin="93,10,0,0" VerticalAlignment="Top" Width="88" Click="Btn_Click"/>
+            <Button x:Name="ZeroTwo" Tag="02" FontSize="30" Content="" HorizontalAlignment="Left" Height="80" Margin="186,10,0,0" VerticalAlignment="Top" Width="88" Click="Btn_Click"/>
+            <Button x:Name="OneZero" Tag="10" FontSize="30" Content="" HorizontalAlignment="Left" Height="80" Margin="0,95,0,0" VerticalAlignment="Top" Width="88" Click="Btn_Click"/>
+            <Button x:Name="OneOne" Tag="11" FontSize="30" Content="" HorizontalAlignment="Left" Height="80" Margin="93,95,0,0" VerticalAlignment="Top" Width="88" Click="Btn_Click"/>
+            <Button x:Name="OneTwo" Tag="12" FontSize="30" Content="" HorizontalAlignment="Left" Height="80" Margin="186,95,0,0" VerticalAlignment="Top" Width="88" Click="Btn_Click"/>
+            <Button x:Name="TwoZero" Tag="20" FontSize="30" Content="" HorizontalAlignment="Left" Height="80" Margin="0,180,0,0" VerticalAlignment="Top" Width="88" Click="Btn_Click"/>
+            <Button x:Name="TwoOne" Tag="21" FontSize="30" Content="" HorizontalAlignment="Left" Height="80" Margin="93,180,0,0" VerticalAlignment="Top" Width="88" Click="Btn_Click"/>
+            <Button x:Name="TwoTwo" Tag="22" FontSize="30" Content="" HorizontalAlignment="Left" Height="80" Margin="186,180,0,0" VerticalAlignment="Top" Width="88" Click="Btn_Click"/>
+        </Grid>
+        <Button x:Name="LoadField" Content="Load Field" FontSize="20" HorizontalAlignment="Left" Margin="60,376,0,0" VerticalAlignment="Top" Width="185" Height="64" Click="Btn_Click"/>
+        <Button x:Name="Play" Content="Play" FontSize="20" HorizontalAlignment="Left" Margin="284,376,0,0" VerticalAlignment="Top" Width="185" Height="64" Click="Btn_Click"/>
+        <Button x:Name="Computer" Content="Choosing by Computer" FontSize="15" HorizontalAlignment="Left" Margin="547,180,0,0" VerticalAlignment="Top" Width="182" Height="85" Click="Btn_Click"/>
+        <Button x:Name="LoadGame" Content="Load Game and Play" FontSize="20" HorizontalAlignment="Left" Margin="499,376,0,0" VerticalAlignment="Top" Width="230" Height="64" Click="Btn_Click"/>
+        <Label x:Name="Label" Content="Label" HorizontalAlignment="Left" Margin="240,29,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
